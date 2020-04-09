@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = "ta"
+first_number = 15
